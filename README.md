@@ -1,5 +1,7 @@
 # python_projects
 
+Wall-E/
+
 This is a project given in Gateway Computing: Python course at JHU in Spring 2022.
 
 A OOP python project mimicking the robot Wall-E cleaning up the abandoned earth.
